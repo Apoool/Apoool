@@ -3,7 +3,7 @@
 
 ![Alt Text](https://github.com/Apoool/Apoool/blob/main/359.gif)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=apoool&label=Watchers ":eyes:" &color=blue&style=for-the-badge" alt="apoool" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=apoool&label=Watchers&color=blue&style=for-the-badge" alt="apoool" /> </p>
 
 - :shipit: I’m currently working on **SHADE**
 
