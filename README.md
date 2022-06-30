@@ -5,9 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=apoool&label=Watchers&color=blue&style=for-the-badge" alt="apoool" /> </p>
 
-- :shipit: I’m currently working on **SHADE**
-
-- 🌱 I’m currently learning **Java Gui** & **MySQL**
+- :shipit: New Project: Web Porfolio
 
 - :snake: I’m currently taking **Python Course**
 
