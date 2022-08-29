@@ -7,7 +7,7 @@
 
 - :shipit: New Project: Web Porfolio
 
-- :smirk: Currently trying to be **WEB HERMIT**
+- 😿: Currently trying to be a **WEB HERMIT**
 
 - ⚡ Fun fact **Im Random :smirk:**
 
