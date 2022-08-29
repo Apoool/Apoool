@@ -7,7 +7,7 @@
 
 - :shipit: New Project: Web Porfolio
 
-- :snake: I’m currently taking **Python Course**
+- :smirk: Currently trying to be **WEB HERMIT**
 
 - ⚡ Fun fact **Im Random :smirk:**
 
