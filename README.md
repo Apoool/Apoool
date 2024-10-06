@@ -1,15 +1,8 @@
-<h1 align="center">I'm Pol Kyros 👋</h1>
-<h3 align="center">A Computer Engineering Student from CIT-U.</h3>
-
-![Alt Text](https://github.com/Apoool/Apoool/blob/main/359.gif)
+<h1 align="center">Pol 👋</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=apoool&label=Watchers&color=blue&style=for-the-badge" alt="apoool" /> </p>
 
-- :shipit: New Project: Web Porfolio
-
 - 😿: Currently trying to be a **WEB HERMIT**
-
-- ⚡ Fun fact **Im Random :smirk:**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
